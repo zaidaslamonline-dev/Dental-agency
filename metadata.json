@@ -1,0 +1,6 @@
+{
+  "name": "DentalFlow - Multi-Tenant Dental CRM",
+  "description": "Professional mobile-first multi-tenant dental patient acquisition CRM with WhatsApp intake simulator, Instagram ad conversion preview, and Google Sheets pipeline integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
